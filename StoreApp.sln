@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp", "StoreApp\StoreApp.csproj", "{5E749445-BD2F-46F0-A3B2-16E7BD72CA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp.Tests", "StoreApp.Tests\StoreApp.Tests.csproj", "{EEBCEDCC-8288-4A54-BF8A-64F1830A5092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E749445-BD2F-46F0-A3B2-16E7BD72CA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E749445-BD2F-46F0-A3B2-16E7BD72CA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E749445-BD2F-46F0-A3B2-16E7BD72CA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E749445-BD2F-46F0-A3B2-16E7BD72CA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBCEDCC-8288-4A54-BF8A-64F1830A5092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBCEDCC-8288-4A54-BF8A-64F1830A5092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBCEDCC-8288-4A54-BF8A-64F1830A5092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBCEDCC-8288-4A54-BF8A-64F1830A5092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8479DBC5-4150-4ADE-925C-4F1F54B28B73}
+	EndGlobalSection
+EndGlobal
